@@ -1,0 +1,2 @@
+# appoint-miniapp
+中国矿业大学it服务部与奔腾特勤队微信预约小程序前端taro工程
